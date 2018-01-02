@@ -1,0 +1,25 @@
+body {
+	margin: 0 10px;
+	width: 250px;
+	max-width: 400px;
+}
+
+#userinput {
+	width: 70%;
+	margin-bottom: 10px;
+}
+
+.search {
+	margin-top: 10px;
+}
+
+button {
+	border: none;
+	height: 20px;
+	background-color: #009ACD;
+	color: white;
+}
+
+button:hover {
+	background-color: #00688B;
+}
